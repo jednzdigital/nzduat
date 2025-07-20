@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Nothing to see here yet." />
         <p className="description">
           Web design & lead generation for thriving businesses
         </p>
